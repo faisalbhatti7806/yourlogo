@@ -1,0 +1,37 @@
+#gradient{
+    background-image: linear-gradient(150deg,rgb(243, 98, 98),rgb(182, 42, 182));
+}
+.gradient2, .gradient3{
+    background-color: rgba(193, 248, 248, 0.788);
+}
+#gradient3{
+    background-color: rgba(145, 226, 226, 0.788);
+   
+}
+#gradient4{
+    
+    background-image: linear-gradient(150deg,rgb(245, 149, 149),rgba(124, 5, 124, 0.637));
+} 
+#gradient5{
+    
+    background-image: linear-gradient(150deg,rgb(76, 2, 99),rgba(26, 25, 26, 0.993));
+} 
+#gradient7{
+    background-color: rgba(13, 14, 14, 0.788);
+    color: aliceblue;
+   
+}
+:hover.col-md-4{
+    background-color: rgb(229, 185, 250);
+}
+:hover#bdr{
+color: rgb(238, 6, 6);
+background-color: rgb(158, 245, 248);
+}
+#sp{
+    color: rgb(59, 59, 231);
+    font-family: sans-serif;
+}
+.cl{
+    margin-left: 170px;
+}
